@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">antenna</string>
+    <string name="Login">Login</string>
+    <string name="App_logo">This is app logo</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="not_registered">Not registered yet?</string>
+    <string name="register_here">Register Here</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="New_Alert">New Alert</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire">Fire</string>
+    <string name="Back">Go back</string>
+    <string name="call_authorities">Call Authorities</string>
+    <string name="About">About</string>
+    <string name="women_s_safety">Women Safety</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="police">police</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="website">Go to Website</string>
+    <string name="instagram">Go to Instagram</string>
+</resources>

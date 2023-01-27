@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059485176195",
+    "project_id": "antenna-9f005",
+    "storage_bucket": "antenna-9f005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059485176195:android:2769fde52a3d162dcde6b6",
+        "android_client_info": {
+          "package_name": "com.example.antenna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059485176195-8r3i9o5l07iua1s7cqd5kiot5k401ke9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITwGKciXacPKRKGh6x7jXPOXbNgRUvZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059485176195-8r3i9o5l07iua1s7cqd5kiot5k401ke9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
