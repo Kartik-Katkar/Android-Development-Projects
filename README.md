@@ -1,2 +1,3 @@
 # Android-Development-Projects
-All android projects done till date
+
+This repo contains al the android development projects done in JAVA
